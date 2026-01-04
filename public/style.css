@@ -1,0 +1,11 @@
+body {
+  margin: 60px auto;
+  font-family: Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman",
+    serif;
+  background-color: #f6f5ed;
+  color: #484848;
+
+  width: 580px;
+  font-size: 18px;
+  line-height: 26px;
+}
