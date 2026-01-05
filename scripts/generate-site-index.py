@@ -1,3 +1,4 @@
+#!/bin/sh
 
 import glob
 import os
@@ -34,9 +35,10 @@ post_list_html = '\n        '.join(
     for post in posts
 )
 
-# Read index.html and replace placeholder
-template_path = './index-template.html'
-output_path = 'public/index.html'
+# Read index.html and replace placeholder using absolute paths
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+template_path = os.path.join(BASE_DIR, '..', 'index-template.html')
+output_path = os.path.join(BASE_DIR, '..', 'public', 'index.html')
 
 with open(template_path, 'r') as f:
     index_content = f.read()

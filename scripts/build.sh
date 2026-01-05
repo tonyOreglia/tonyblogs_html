@@ -1,3 +1,8 @@
+#!/bin/sh
+
+# create metadata directory if it does not exist
+mkdir -p metadata
+
 convert_to_html() {
     local mdfile="$1"
     local filename="$2"
@@ -25,3 +30,5 @@ for mdfile in markdown/*.md; do
     convert_to_html "$mdfile" "$filename"
     extract_post_metadata "$mdfile" "$filename"
 done
+
+python "$(dirname "$0")/generate-site-index.py"
