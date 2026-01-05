@@ -1,7 +1,6 @@
 ---
-title: Test Post
+title: "Test Post"
 date: 2026-01-04
-slug: hello-blog-again
 ---
 
 # A Test

@@ -15,7 +15,7 @@ extract_post_metadata() {
 
     pandoc "$mdfile" \
         -t json \
-        | jq '.meta' \
+        | jq --arg slug "$filename" '{date: .meta.date.c[0].c, title: ([.meta.title.c[]? | select(.t != "Space") | .c] | join(" ")), slug: $slug}' \
         > "metadata/${filename}.json"
 }
 

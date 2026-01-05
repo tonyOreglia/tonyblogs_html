@@ -1,7 +1,6 @@
 ---
-title: Hello Blog
-date: 2026-01-04
-slug: hello-blog
+title: "Hello Blog"
+date: 2026-01-05
 ---
 
 # First Post on new blog
