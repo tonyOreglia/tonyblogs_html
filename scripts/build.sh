@@ -19,8 +19,8 @@ convert_to_html() {
     pandoc \
         -f markdown-smart \
         -t html "$mdfile" \
-        -o "public/posts/${filename}.html" \
-        --css style.css \
+        -o "$SCRIPT_DIR/../public/posts/${filename}.html" \
+        --css "https://tonycodes.com/blog/style.css" \
         --standalone
 }
 

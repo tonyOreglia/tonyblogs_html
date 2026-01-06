@@ -3,3 +3,4 @@ metadata/
 public/index.html 
 public/posts/
 .env
+.DS_Store
