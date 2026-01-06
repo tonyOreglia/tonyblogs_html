@@ -1,4 +1,6 @@
-#!/bin/sh
+#!/bin/bash
+
+set -euo pipefail
 
 SERVER=thinkstation-home
 DIR=/var/www/html/blog/

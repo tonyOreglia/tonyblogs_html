@@ -1,7 +1,17 @@
-#!/bin/sh
+#!/bin/bash
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # create metadata directory if it does not exist
-mkdir -p metadata
+mkdir -p "$SCRIPT_DIR/../metadata"
+mkdir -p "$SCRIPT_DIR/../public/posts"
+
+find "$SCRIPT_DIR/../public/posts" -type f -delete
+find "$SCRIPT_DIR/../metadata" -type f -delete
+find "$SCRIPT_DIR/../public" -type f -name "index.html" -delete
+
 
 convert_to_html() {
     local mdfile="$1"
@@ -24,11 +34,12 @@ extract_post_metadata() {
         > "metadata/${filename}.json"
 }
 
-for mdfile in markdown/*.md; do
-    filename=$(basename "$mdfile" .md)
+find markdown-posts -type f -name "*.md" | while read -r mdfile; do
+    dirpath=$(dirname "$mdfile")
+    safe_filename=$(basename "$dirpath")
 
-    convert_to_html "$mdfile" "$filename"
-    extract_post_metadata "$mdfile" "$filename"
+    convert_to_html "$mdfile" "$safe_filename"
+    extract_post_metadata "$mdfile" "$safe_filename"
 done
 
-python "$(dirname "$0")/generate-site-index.py"
+python "$SCRIPT_DIR/generate-site-index.py"

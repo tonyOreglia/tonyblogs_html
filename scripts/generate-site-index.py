@@ -16,9 +16,18 @@ for jsonfile in glob.glob('metadata/*.json'):
     if slug and date_published:
         # parse date to sortable format; fallback to string if necessary
         try:
-            date_obj = datetime.fromisoformat(date_published)
+            date_obj = datetime.strptime(date_published, '%Y-%m-%dT%H:%M:%S%z')
         except Exception:
-            date_obj = date_published
+            try:
+                date_obj = datetime.fromisoformat(date_published)
+                if date_obj.tzinfo is None:
+                    from datetime import timezone
+                    date_obj = date_obj.replace(tzinfo=timezone.utc)
+                else:
+                    date_obj = date_obj.astimezone(datetime.timezone.utc)
+            except Exception:
+                print(f"Failed to parse date: {date_published} in file {jsonfile}")
+                exit(1)
         posts.append({
             'slug': slug,
             'date': date_published,
@@ -26,7 +35,6 @@ for jsonfile in glob.glob('metadata/*.json'):
             'title': title
         })
 
-# Sort by date descending
 posts.sort(key=lambda p: p['date_obj'], reverse=True)
 
 # Generate HTML list
