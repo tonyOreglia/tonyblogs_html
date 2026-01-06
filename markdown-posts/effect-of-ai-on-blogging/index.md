@@ -9,7 +9,7 @@ tags:
 - technology
 ---
 
-![](typewriter.webp)
+![](https://img.tonycodes.com/typewriter.webp)
 
 Blogging is a hundred billion dollar industry (1). The time and energy invested in blogging is immense, even though only a small fraction is captured in monetary transactions.
 

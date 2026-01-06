@@ -10,7 +10,7 @@ tags:
 - medium article
 ---
 
-![](library.webp)
+![](https://img.tonycodes.com/library.webp)
 
 There are a number of bundled solutions for hosting your digital library out of the box. Those are great but there are some setbacks. Namely, you get locked into the providers eco-system — for example, storing books with Amazon means it’s easiest to purchase books from Amazon at their price and selection. Hosting your own data gives you freedom to source from anywhere, share, try different content viewing options. It’s generally more flexible and, importantly, it’s more fun.
 
@@ -24,7 +24,7 @@ There are two common ways of hosting a server.
 1. Host a server from home with your own hardware
 1. Create an instance using some cloud service provider. There are a number of cloud service providers, common ones are Google Cloud, Amazon Web Service and Digital Ocean. There are many more.
 
-![](aws-lightsail.webp)
+![](https://img.tonycodes.com/aws-lightsail.webp)
 
 This guide uses AWS Lightsail to quickly spin up a server instance with SSH access. It’s super easy to create an instance with a couple of clicks and access the server via the AWS Lightsail web console. For this application, just choose “OS Only” and “Ubuntu” as the tech stack when configuring the Lightsail server.
 
@@ -86,7 +86,7 @@ Download [here](https://calibre-ebook.com/download).
 
 As an example, [here](https://www.gutenberg.org/ebooks/71) is a great ebook from the gentleman below:
 
-![](hdt.webp)
+![](https://img.tonycodes.com/hdt.webp)
 
 Download the file EPUB file. Then from Calibre desktop, click ‘Add books’ in the upper left corner. Select the file just downloaded. It will automatically add the file to your Calibre library database.
 

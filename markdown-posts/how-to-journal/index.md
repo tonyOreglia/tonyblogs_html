@@ -8,7 +8,7 @@ tags:
 - daily introspective journaling
 ---
 
-![](https___substack-post-media.s3.amazonaws.com_public_images_3c2e1421-86a8-4393-b332-3f47c540c7b3_1400x2100.jpeg)
+![](https://img.tonycodes.com/https___substack-post-media.s3.amazonaws.com_public_images_3c2e1421-86a8-4393-b332-3f47c540c7b3_1400x2100.jpeg)
 
 After talking to hundreds of people about journaling I began to realise there are two broad categories. Most people think of journaling in terms of one or the other.
 
@@ -38,7 +38,7 @@ Some examples goal oriented are bullet journaling, Benjamin Franklins Daily Virt
 
 # Jumble Journal
 
-![](https___substack-post-media.s3.amazonaws.com_public_images_8e9141b6-0c55-40dc-80f6-3d4da6bb0939_862x378.png)
+![](https://img.tonycodes.com/https___substack-post-media.s3.amazonaws.com_public_images_8e9141b6-0c55-40dc-80f6-3d4da6bb0939_862x378.png)
 
 Jumble was built for the purpose of introspective journaling. It is meant to be a calm space to just write your thoughts without concern. Jumble helps you to explore those thoughts with the latest tools in AI. We protect your journal with client side encryption which means you have full ownership of your data. See our security [white paper here](https://docs.google.com/document/d/1T0SEj5WrymfyzNDD8rNGKQ2OpF6xoPGrYahppGd4Yaw/edit?usp=sharing).
 

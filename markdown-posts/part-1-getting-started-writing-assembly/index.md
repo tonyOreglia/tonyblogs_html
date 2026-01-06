@@ -12,7 +12,7 @@ series:
 - Writing an X86–64 Assembly Language Program
 ---
 
-![](easy-assembly.webp)
+![](https://img.tonycodes.com/easy-assembly.webp)
 
 This guide is part one of the series, [X86–64 Assembly Language Program](https://tonycodes.com/blog/series/writing-an-x8664-assembly-language-program/).
 
@@ -28,7 +28,7 @@ Learning assembly language improves one's foundational understanding of software
 
 Also, assembly language it’s close to the hardware, and that’s fun.
 
-![](cs-stack.webp)
+![](https://img.tonycodes.com/cs-stack.webp)
 
 # Some Background
 
@@ -46,7 +46,7 @@ Getting prepared to write assembly language can be a bit confusing. There are a 
 - [GNU Project debugger (gdb)](https://www.sourceware.org/gdb/): allows you to see what is going on `inside’ another program while it executes
 [clang](https://clang.llvm.org/get_started.html): GCC-compatible compiler driver
 
-![](nasm.webp)
+![](https://img.tonycodes.com/nasm.webp)
 
 I started with clang but had trouble getting the linked executable to run.
 
@@ -72,7 +72,7 @@ The Docker container must be run with the options `--cap-add=SYS_PTRACE` and `--
 $ docker run --rm -it --cap-add=SYS_PTRACE --security-opt seccomp=unconfined -v "$(current_dir)":/app -w /app <DOCKER-IMAGE-NAME>
 ```
 
-![](docker.webp)
+![](https://img.tonycodes.com/docker.webp)
 
 # Getting to the Above Command
 

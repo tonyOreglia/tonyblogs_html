@@ -12,7 +12,7 @@ tags:
 - programming
 ---
 
-![](fun-ride.webp)
+![](https://img.tonycodes.com/fun-ride.webp)
 
 This guide is part five of the series, [X86–64 Assembly Language Program](https://tonycodes.com/blog/series/writing-an-x8664-assembly-language-program/).
 

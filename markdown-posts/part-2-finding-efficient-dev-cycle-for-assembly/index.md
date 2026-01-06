@@ -12,7 +12,7 @@ tags:
 - programming
 ---
 
-![](docker.webp)
+![](https://img.tonycodes.com/docker.webp)
 
 This guide is part two of the series, [X86–64 Assembly Language Program](https://tonycodes.com/blog/series/writing-an-x8664-assembly-language-program/).
 
@@ -22,7 +22,7 @@ Now that GDB is working well with Docker, the next step is to find a development
 
 I prefer to develop within [VS Code](https://code.visualstudio.com/) rather than having to develop directly on the Docker container with `vim`. The question is how to develop on VS Code, then quickly compile, link, run and debug the code on the docker container that is now set up?
 
-![](vs-code.webp)
+![](https://img.tonycodes.com/vs-code.webp)
 
 The answer came from this helpful [blog post](https://medium.com/better-programming/why-and-how-to-use-docker-for-development-a156c1de3b24). This blog post provides a useful starting point regarding how to leverage an image to build an executable, then run another container to run the executable. Although it does not cover assembly language, it is exactly the sort of workflow we need to use.
 
@@ -102,6 +102,6 @@ Finally, debugging can be done directly on the Docker container with the command
 docker run --rm -it --cap-add=SYS_PTRACE -v "$(pwd)":/app -w /app linux-assembly sh -c "gdb hw"
 ```
 
-![](gdb.gif)
+![](https://img.tonycodes.com/gdb.gif)
 
 Now you can develop locally using VSCode and quickly run the program on the Docker container or debug using GDB on Docker if needed.

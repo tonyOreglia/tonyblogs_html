@@ -8,7 +8,7 @@ tags:
 - imported
 ---
 
-![](https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_63eb531e-5c71-45be-8364-7b34d2b6d47e_1920x938.jpeg)
+![](https://img.tonycodes.com/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_63eb531e-5c71-45be-8364-7b34d2b6d47e_1920x938.jpeg)
 
 I was thinking about how to think about emotion and came up with a useful metaphor. **Emotion is like the color of one's life, but one chooses what picture to draw**. Imagine an artist with an assortment of colors to work with but he draws the picture. One artist may have more blue, another more red, and yes, this does dictate (to some extent) the character of the drawing, but it does not at all dictate the content.
 

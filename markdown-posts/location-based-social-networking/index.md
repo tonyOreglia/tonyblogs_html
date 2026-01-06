@@ -13,7 +13,7 @@ tags:
 # WHAT IS LOCATION BASED SOCIAL NETWORKING
 Location Based Social Networking is a new approach to online networking. The idea is that the connections and interactions between users are based on creating virtual data that is tied to a specific location. In the most simple example, a user can store a message in a specific location in virtual reality. A Location Based Social Network would then allow other users to “find” this message by arriving at that same location. The information does not exist in the real world; it is only the application that these messages can be created and found.
 
-![](footprints.webp)
+![](https://img.tonycodes.com/footprints.webp)
 
 # WHAT IS THE POTENTIAL FOR LOCATION BASED SOCIAL NETWORKS
 The potential for this type of networking are vast and already there are a number of applications on the market experimenting with this concept. Notably, [Pokémon GO](https://pokemongo.com/en) enables users to find Pokémon out in the real world via augmented reality seen through the phone. Others, like [Wallame](https://en.wikipedia.org/wiki/WallaMe), provide a platform to create virtual graffiti.

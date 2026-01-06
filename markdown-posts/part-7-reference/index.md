@@ -12,7 +12,7 @@ tags:
 - programming
 ---
 
-![](beach-sign.webp)
+![](https://img.tonycodes.com/beach-sign.webp)
 
 This guide is part seven of the series, [X86–64 Assembly Language Program](https://tonycodes.com/blog/series/writing-an-x8664-assembly-language-program/).
 

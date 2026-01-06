@@ -32,7 +32,7 @@ In both journaling and review, LLM's can be leveraged to great effect.
 
 With LLMs we can provide contextual journaling prompts. Journaling prompts are not a new concept, but generally it is a just list of generic prompts. LLM’s enable us to generate a uniquely tailored prompt. It can be based on recent journal entries, goals, current projects, or any chosen topic on your mind.
 
-![](https___substack-post-media.s3.amazonaws.com_public_images_8d33e0df-b485-4993-8e45-dd1983be7391_700x426.png)
+![](https://img.tonycodes.com/https___substack-post-media.s3.amazonaws.com_public_images_8d33e0df-b485-4993-8e45-dd1983be7391_700x426.png)
 
 ## Journaling Assistant 
 
@@ -53,14 +53,14 @@ With LLM’s the tedium is no longer necessary. We can train a model on the jour
   * _What intentions remain unresolved?_
 
 
-![](https___substack-post-media.s3.amazonaws.com_public_images_f8b87436-da87-4dbe-83d3-0ed7e362d9ef_1416x752.gif)
+![](https://img.tonycodes.com/https___substack-post-media.s3.amazonaws.com_public_images_f8b87436-da87-4dbe-83d3-0ed7e362d9ef_1416x752.gif)
 
 
 The more journal entries we have, the more value in this functionality.
 
 **In the end, a journal is not just text. It is a personal fingerprint. Our own complexities are built into the intricacies of our recorded thoughts. Untangling it leads to improved self understanding. This is what we aim to bring you at Jumble Journal.**
 
-![](https___substack-post-media.s3.amazonaws.com_public_images_206d2261-cb41-4e47-9d25-ccac81e61c34_700x307.png)
+![](https://img.tonycodes.com/https___substack-post-media.s3.amazonaws.com_public_images_206d2261-cb41-4e47-9d25-ccac81e61c34_700x307.png)
 
 We are building Jumble Journal to unlock the full potential of your personal journal with LLM technology. It is designed to help you find clarity and grow. We protect your journal with client-side encryption which means you have full ownership of your data.
 

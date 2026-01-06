@@ -17,7 +17,7 @@ I've checked out the landscape to help you find the best AI-powered journaling a
 
 # 1. Jumble Journal
 
-![jumble-logo-dark](jumble-logo-dark.png)
+![jumble-logo-dark](https://img.tonycodes.com/jumble-logo-dark.png)
 
 Jumble Journal offers a personalized journaling experience, providing prompts, an AI journaling assistant, and even the ability to chat with your journal. Its integration with reMarkable adds a unique touch for those who prefer handwritten entries.
 

@@ -12,7 +12,7 @@ tags:
 - programming
 ---
 
-![](scrabble.webp)
+![](https://img.tonycodes.com/scrabble.webp)
 
 This guide is part six of the series, [X86–64 Assembly Language Program](https://tonycodes.com/blog/series/writing-an-x8664-assembly-language-program/).
 

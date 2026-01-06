@@ -9,7 +9,7 @@ tags:
 - fear
 ---
 
-![](https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_121ef4ac-40fa-424d-8e4d-72653a38b6ab_800x534.jpeg)
+![](https://img.tonycodes.com/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_121ef4ac-40fa-424d-8e4d-72653a38b6ab_800x534.jpeg)
 
 This substack is about living the good life and indeed what exactly that means. This particular essay asserts that growth is requisite to living well. I don’t feel there is a need to defend this because it's impossible to imagine life absent of growth from both physical and intellectual standpoints. Therefore, differences of opinion on this are a matter of degrees only.
 
@@ -35,11 +35,11 @@ The common-sense answer is that the biggest opportunities for growth entail more
 
 But clearly, this idea of linear increase is not exactly right. Otherwise, Evel Knieval would have been a freakish overlord hovering above the rest of us mere mortals:
 
-![](https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_28b3339c-ffdf-4f8f-9717-23062097f202_948x948.jpeg)
+![](https://img.tonycodes.com/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_28b3339c-ffdf-4f8f-9717-23062097f202_948x948.jpeg)
 
 A clarification will correct this conclusion about Evel. The positive correlation between growth and risk is not for every possible action. It’s an indication of the upper limit of growth that can be expected at a given level of risk. With this improvement in understanding the graph looks more like this
 
-![](growth-2.webp)
+![](https://img.tonycodes.com/growth-2.webp)
 
 We are in some very subjective water. Now is a good time to define our terms and acknowledge some (unavoidable?) subjectivity in this domain.
 
@@ -53,7 +53,7 @@ Another improvement to this framework would be to consider how the relationship 
 
 Making these changes, we end up with something like this:
 
-![](risk-rainbow.jpeg)
+![](https://img.tonycodes.com/risk-rainbow.jpeg)
 
 Qualitatively this graph can offer a few simple reminders. Without some level of risk, we cannot grow. On the far left of the graph, there is a higher rate of return on increasing risk. Growth goes up steeply as you shift from no risk to a small amount. Some practical ways to reduce risk are:
 

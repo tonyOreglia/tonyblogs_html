@@ -2,3 +2,4 @@
 metadata/
 public/index.html 
 public/posts/
+.env

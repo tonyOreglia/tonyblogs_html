@@ -12,7 +12,7 @@ tags:
 - programming
 ---
 
-![](hacker.webp)
+![](https://img.tonycodes.com/hacker.webp)
 
 This guide is part three of the series, [X86–64 Assembly Language Program](https://tonycodes.com/blog/series/writing-an-x8664-assembly-language-program/).
 
@@ -28,7 +28,7 @@ As a first step towards that goal, the program would need to access command-line
 
 If you are new to assembly programming, I suggest [this guide](https://github.com/0xAX/asm) as a starting point to learns some of the fundamentals. I reference some of the concepts here without further explanation.
 
-![](cli.webp)
+![](https://img.tonycodes.com/cli.webp)
 
 # What is a Command Line Argument
 Command-line arguments are textual inputs the program users include on the command line while executing a program. For example, if there is an executable program named a.out, it can be run on a Linux system from the command line with the command

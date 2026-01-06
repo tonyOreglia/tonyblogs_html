@@ -14,7 +14,7 @@ SafetyCulture we use New Relic to monitor most of our services. It has been huge
 
 This article describes how to avoid one of the common pitfalls experienced by users of New Relic. That is, a Metric Grouping Issue (MGI) or “metric explosion” as it’s often referred to.
 
-![](explosion.webp)
+![](https://img.tonycodes.com/explosion.webp)
 
 ## When does an MGI occur?
 An MGI occurs when a service sends many unique individual metrics that would be better managed in groups. This presents a challenge for New Relic as it can slow down their overall user experience. Additionally, this can overwhelm the dashboard insights making it difficult to identify problem spots. One way to identify if an MGI is occurring is if “you are seeing “/*” in your transaction names.”[1] If the issue persists, New Relic will take action to halt accounts from creating any additional metric names for the offending service if an MGI is occurring.
@@ -53,7 +53,7 @@ The pattern can be a regular expression or string. In this case, any incoming UR
 
 ### New Relic Transaction List before & after custom metric naming:
 
-![](new-relic-insights.webp)
+![](https://img.tonycodes.com/new-relic-insights.webp)
 
 Note that this is not the only way an MGI can occur. Validation errors are only the cause in the specific experience of the iAuditor API team. According to New Relic, MGI can also occur in the following scenarios:
 

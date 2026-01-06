@@ -9,7 +9,7 @@ tags:
 - Thoughts on Living
 ---
 
-![](anxiety-image.webp)
+![](https://img.tonycodes.com/anxiety-image.webp)
 
 I keep hearing the same thing. The new Large Language Models (like GPT-4) cause anxiety because
 

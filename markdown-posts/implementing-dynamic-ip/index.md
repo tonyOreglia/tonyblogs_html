@@ -10,7 +10,7 @@ tags:
 - digital ocean
 ---
 
-![](dig-ocean.webp)
+![](https://img.tonycodes.com/dig-ocean.webp)
 
 In this article, I'll provide a way to set up a dynamic IP address for your home server with DigitalOcean as the DNS. The article shows you how to monitor the server's public IP address and dynamically update DigitalOcean records as needed. The article shows how to set up a script to run every hour via crontab and how to cache the previous IP address to avoid unnecessary API calls.
 
