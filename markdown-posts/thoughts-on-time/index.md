@@ -8,14 +8,7 @@ tags:
 - thoughts on living
 ---
 
-{{< figure
-  src=https://img.tonycodes.com/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_670d9b06-f40c-4245-9b84-1db4350ab723_3648x5472.jpeg
-  alt="sun dial"
-  caption="Photo by [Erik Mclean](https://unsplash.com/@introspectivedsgn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sundial?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-  loading=lazy
-  width=70%
-  height=auto
->}}
+![](https://img.tonycodes.com/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_670d9b06-f40c-4245-9b84-1db4350ab723_3648x5472.jpeg)
 
 Time can go fast. Really it only goes slow when we are very much “living in the moment”. But even then, looking back, it seems to have gone fast.
 

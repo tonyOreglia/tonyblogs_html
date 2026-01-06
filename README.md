@@ -6,5 +6,6 @@ Generated blog available at https://tonycodes.com/blog
 * [X] ~~*handle images*~~ [2026-01-06]
 * [X] ~~*Add old blog posts*~~ [2026-01-06]
 * [ ] display tags
-* [ ] display series
+* [ ] handle series
 * [ ] rss feed
+* [ ] 
