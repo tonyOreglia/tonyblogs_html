@@ -12,7 +12,7 @@ This article briefly covers the period, people, and ideas that led up to the Ita
 
 # The Renaissance is still felt today
 
-![](https://img.tonycodes.com/https://img.tonycodes.com/beyonce.webp)
+![](https://img.tonycodes.com/beyonce.webp)
 
 From the Renaissance to modern times, we've seen a general decline in religious influence and an increase in individualistic lifestyles.
 

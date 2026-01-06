@@ -1,4 +1,8 @@
+# Tony Codes Blog 
+
 Generated blog available at https://tonycodes.com/blog
+
+This repository contains a set of scripts which convert markdown files into an HTML blog.
 
 ### Next Features
 * [X] ~~*generate index.html via script using the extracted JSON metadata*~~ [2026-01-05]
@@ -8,4 +12,12 @@ Generated blog available at https://tonycodes.com/blog
 * [ ] display tags
 * [ ] handle series
 * [ ] rss feed
-* [ ] 
+* [ ] lighter background for code snippets
+* [ ] auto link urls
+* [ ] format date on blog post header 
+* [ ] add post dates to index
+* [ ] add pagination to index
+* [ ] implement basic analytics
+* [ ] link to the /about homepage
+* [X] ~~*describe the blog*~~ [2026-01-06]
+* [ ] link to the repo
