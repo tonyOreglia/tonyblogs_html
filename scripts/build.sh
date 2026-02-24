@@ -29,7 +29,7 @@ extract_post_metadata() {
 
   pandoc "$mdfile" \
     -t json |
-    jq --arg slug "$filename" '{date: .meta.date.c[0].c, title: ([.meta.title.c[]? | select(.t != "Space") | .c] | join(" ")), slug: $slug}' \
+    jq --arg slug "$filename" '{date: .meta.date.c[0].c, title: ([.meta.title.c[]? | select(.t != "Space") | .c] | join(" ")), slug: $slug, series: (try (.meta.series.c[0].c | map(if .t == "Space" then " " else .c end) | join("")) catch null)}' \
       >"metadata/${filename}.json"
 }
 
