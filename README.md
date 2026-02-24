@@ -4,6 +4,11 @@ Generated blog available at https://tonycodes.com/blog
 
 This repository contains a set of scripts which convert markdown files into an HTML blog.
 
+## Requirements 
+
+- pandoc 
+- uv: https://docs.astral.sh/uv/getting-started/
+
 ### Next Features
 * [X] ~~*generate index.html via script using the extracted JSON metadata*~~ [2026-01-05]
 * [ ] dark mode

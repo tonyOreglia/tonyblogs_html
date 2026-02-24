@@ -12,7 +12,10 @@ for jsonfile in glob.glob('metadata/*.json'):
         metadata = json.load(f)
     slug = metadata.get('slug', '')
     date_published = metadata.get('date', '')
-    title = metadata.get('title', '');
+    title = metadata.get('title', '')
+    draft = metadata.get('draft', False)
+    if draft:
+        continue
     if slug and date_published:
         # parse date to sortable format; fallback to string if necessary
         try:
@@ -39,7 +42,7 @@ posts.sort(key=lambda p: p['date_obj'], reverse=True)
 
 # Generate HTML list
 post_list_html = '\n        '.join(
-    f'<li><a href="/blog/posts/{post["slug"]}.html">{post["title"]}</a></li>'
+    f'<li><span class="post-date">{post["date_obj"].strftime("%d %b, %Y")}</span><a href="/blog/posts/{post["slug"]}.html">{post["title"]}</a></li>'
     for post in posts
 )
 
