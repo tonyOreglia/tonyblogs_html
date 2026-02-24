@@ -98,7 +98,7 @@ for entry in index_entries:
     if entry['type'] == 'series':
         href = f"/blog/series/{entry['series_slug']}.html"
         list_items.append(
-            f'<li><span class="post-date">{date_str}</span>📚 <a href="{href}">{entry["series_name"]}</a></li>'
+            f'<li><span class="post-date">{date_str}</span> (series) 📚 <a href="{href}">{entry["series_name"]}</a></li>'
         )
     else:
         href = f"/blog/posts/{entry['slug']}.html"
