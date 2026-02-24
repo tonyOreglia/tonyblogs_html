@@ -1,6 +1,6 @@
 ---
 title: "Implementing a Dynamic IP with Domain Hosted on DigitalOcean"
-draft: false
+draft: true
 date: "2021-12-22"
 tags:
 - software engineering

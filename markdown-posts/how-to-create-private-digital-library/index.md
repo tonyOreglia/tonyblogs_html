@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Private Digital Library Available Anywhere"
-draft: false
+draft: true
 date: "2019-08-03"
 tags:
 - software engineering

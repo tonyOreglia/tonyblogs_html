@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Growth: Taking risks vs playing it safe"
 date: "2022-01-22"
-draft: false
+draft: true
 original_url: https://tonyoreglia.substack.com/p/thoughts-on-growth
 tags:
 - thoughts on living

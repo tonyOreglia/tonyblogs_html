@@ -1,7 +1,7 @@
 ---
 title: '5 Benefits of Journaling'
 date: '2023-04-12T18:02:08'
-draft: false
+draft: true
 tags:
 - journaling
 - health and wellbeing

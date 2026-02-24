@@ -1,7 +1,7 @@
 ---
 title: "How to Avoid New Relic Metric Explosion"
 date: "2018-09-13"
-draft: false
+draft: true
 tags:
 - new relic
 - observability

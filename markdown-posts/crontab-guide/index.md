@@ -1,6 +1,6 @@
 ---
 title: "Tips and Tricks for using Crontab on Linux"
-draft: false
+draft: true
 date: "2021-11-29"
 tags:
 - software engineering

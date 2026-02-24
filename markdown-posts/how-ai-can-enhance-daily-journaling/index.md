@@ -1,7 +1,7 @@
 ---
 title: "How AI Can Enhance Daily Journaling"
 date: "2023-05-12"
-draft: false
+draft: true
 original_url: https://tonyoreglia.substack.com/p/how-ai-can-enhance-daily-journaling
 tags:
 - journaling

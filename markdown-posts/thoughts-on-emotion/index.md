@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Emotion"
 date: "2021-11-28"
-draft: false
+draft: true
 original_url: https://tonyoreglia.substack.com/p/thoughts-on-emotion
 tags:
 - substack

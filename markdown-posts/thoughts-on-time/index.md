@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Time"
 date: "2021-11-01"
-draft: false
+draft: true
 original_url: https://tonyoreglia.substack.com/p/thoughts-on-time
 tags:
 - time

@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Fear of Death"
 date: "2021-09-28"
-draft: false
+draft: true
 original_url: https://tonyoreglia.substack.com/p/thoughts-on-fear-of-death
 tags:
 - thoughts on living

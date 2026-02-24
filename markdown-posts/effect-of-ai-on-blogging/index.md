@@ -1,6 +1,6 @@
 ---
 date: '2023-09-01T18:02:08'
-draft: false
+draft: true
 title: 'Effect of AI on the 100 Billion Dollar Blogging Industry'
 tags:
 - AI

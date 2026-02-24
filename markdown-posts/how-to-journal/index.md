@@ -1,7 +1,7 @@
 ---
 title: "How to Journal: Practical vs Introspective Journaling"
 date: "2023-04-14"
-draft: false
+draft: true
 original_url: https://tonyoreglia.substack.com/p/how-to-journal
 tags:
 - journaling

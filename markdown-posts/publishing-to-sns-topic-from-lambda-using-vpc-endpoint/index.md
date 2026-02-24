@@ -1,6 +1,6 @@
 ---
 date: '2023-07-31'
-draft: false
+draft: true
 title: 'Publishing to SNS Topic from Lambda Using VPC Endpoint with SAM Template: AWS Serverless Application Model (SAM) Pub/Sub Architecture'
 tags:
 - AWS

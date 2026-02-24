@@ -1,7 +1,7 @@
 ---
 title: "Human Verification Architecture Proposal"
 date: "2025-07-28"
-draft: false
+draft: true
 tags: 
 - software engineering
 - architecture

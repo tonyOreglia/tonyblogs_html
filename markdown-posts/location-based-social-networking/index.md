@@ -1,6 +1,6 @@
 ---
 title: 'Location Based Social Networking'
-draft: false
+draft: true
 date: "2021-08-29"
 tags: 
 - medium article
